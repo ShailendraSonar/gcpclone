@@ -1,0 +1,2578 @@
+{
+    "success": true,
+    "data": [
+        {
+            "name": "unde deserunt porro",
+            "slug": "nulla-id-vero",
+            "createdAt": "2023-08-02T13:58:06.956Z",
+            "services": [
+                {
+                    "name": "fuga facilis eum",
+                    "ipAddresses": [
+                        {
+                            "ip": "e0f4:67cc:8796:ed15:1a05:dfc2:ddf7:cc78",
+                            "isPrimary": true
+                        },
+                        {
+                            "ip": "30.184.163.148",
+                            "isPrimary": false
+                        }
+                    ],
+                    "slug": "sed-rerum-possimus",
+                    "type": "LARGE",
+                    "specs": {
+                        "cpu": 2,
+                        "memory": 2048,
+                        "disk": 51200
+                    },
+                    "createdAt": "2023-08-10T23:45:13.937Z",
+                    "usage": [
+                        {
+                            "cpu": 10,
+                            "memory": 849,
+                            "disk": 24248
+                        },
+                        {
+                            "cpu": 26,
+                            "memory": 381,
+                            "disk": 39641
+                        },
+                        {
+                            "cpu": 74,
+                            "memory": 934,
+                            "disk": 11087
+                        },
+                        {
+                            "cpu": 57,
+                            "memory": 277,
+                            "disk": 962
+                        },
+                        {
+                            "cpu": 32,
+                            "memory": 1265,
+                            "disk": 7663
+                        },
+                        {
+                            "cpu": 61,
+                            "memory": 455,
+                            "disk": 31587
+                        },
+                        {
+                            "cpu": 39,
+                            "memory": 1933,
+                            "disk": 46213
+                        },
+                        {
+                            "cpu": 68,
+                            "memory": 921,
+                            "disk": 18407
+                        },
+                        {
+                            "cpu": 61,
+                            "memory": 895,
+                            "disk": 46201
+                        },
+                        {
+                            "cpu": 70,
+                            "memory": 203,
+                            "disk": 3083
+                        }
+                    ]
+                },
+                {
+                    "name": "libero et libero",
+                    "ipAddresses": [
+                        {
+                            "ip": "52c5:9559:07af:f1a3:a2fa:9467:7392:51aa",
+                            "isPrimary": false
+                        }
+                    ],
+                    "slug": "eos-omnis-adipisci",
+                    "type": "MEGA",
+                    "specs": {
+                        "cpu": 16,
+                        "memory": 32768,
+                        "disk": 1024000
+                    },
+                    "createdAt": "2023-03-07T20:54:10.565Z",
+                    "usage": [
+                        {
+                            "cpu": 37,
+                            "memory": 21710,
+                            "disk": 840697
+                        },
+                        {
+                            "cpu": 1,
+                            "memory": 3181,
+                            "disk": 637795
+                        },
+                        {
+                            "cpu": 84,
+                            "memory": 22075,
+                            "disk": 98404
+                        },
+                        {
+                            "cpu": 98,
+                            "memory": 31997,
+                            "disk": 899270
+                        },
+                        {
+                            "cpu": 47,
+                            "memory": 16699,
+                            "disk": 1000204
+                        },
+                        {
+                            "cpu": 5,
+                            "memory": 19820,
+                            "disk": 461987
+                        },
+                        {
+                            "cpu": 74,
+                            "memory": 654,
+                            "disk": 40128
+                        },
+                        {
+                            "cpu": 44,
+                            "memory": 9267,
+                            "disk": 1003097
+                        },
+                        {
+                            "cpu": 12,
+                            "memory": 11778,
+                            "disk": 303247
+                        },
+                        {
+                            "cpu": 48,
+                            "memory": 3890,
+                            "disk": 705189
+                        }
+                    ]
+                },
+                {
+                    "name": "aut esse sint",
+                    "ipAddresses": [],
+                    "slug": "numquam-eligendi-error",
+                    "type": "SMALL",
+                    "specs": {
+                        "cpu": 1,
+                        "memory": 1024,
+                        "disk": 25600
+                    },
+                    "createdAt": "2023-07-25T15:42:59.581Z",
+                    "usage": [
+                        {
+                            "cpu": 87,
+                            "memory": 272,
+                            "disk": 13030
+                        },
+                        {
+                            "cpu": 52,
+                            "memory": 939,
+                            "disk": 2404
+                        },
+                        {
+                            "cpu": 93,
+                            "memory": 590,
+                            "disk": 2127
+                        },
+                        {
+                            "cpu": 93,
+                            "memory": 284,
+                            "disk": 8155
+                        },
+                        {
+                            "cpu": 0,
+                            "memory": 684,
+                            "disk": 21564
+                        },
+                        {
+                            "cpu": 13,
+                            "memory": 663,
+                            "disk": 18338
+                        },
+                        {
+                            "cpu": 84,
+                            "memory": 296,
+                            "disk": 6777
+                        },
+                        {
+                            "cpu": 18,
+                            "memory": 407,
+                            "disk": 15015
+                        },
+                        {
+                            "cpu": 55,
+                            "memory": 20,
+                            "disk": 4222
+                        },
+                        {
+                            "cpu": 83,
+                            "memory": 379,
+                            "disk": 120
+                        }
+                    ]
+                },
+                {
+                    "name": "cum similique enim",
+                    "ipAddresses": [
+                        {
+                            "ip": "73.246.110.63",
+                            "isPrimary": true
+                        },
+                        {
+                            "ip": "101.151.229.146",
+                            "isPrimary": true
+                        },
+                        {
+                            "ip": "efa7:7dfb:14cd:66ae:395e:fb9b:a88f:3a66",
+                            "isPrimary": true
+                        },
+                        {
+                            "ip": "121.4.120.77",
+                            "isPrimary": true
+                        }
+                    ],
+                    "slug": "distinctio-quis-nostrum",
+                    "type": "MINI",
+                    "specs": {
+                        "cpu": 0.5,
+                        "memory": 512,
+                        "disk": 10240
+                    },
+                    "createdAt": "2023-09-30T12:00:57.917Z",
+                    "usage": [
+                        {
+                            "cpu": 62,
+                            "memory": 384,
+                            "disk": 4391
+                        },
+                        {
+                            "cpu": 88,
+                            "memory": 69,
+                            "disk": 1053
+                        },
+                        {
+                            "cpu": 30,
+                            "memory": 47,
+                            "disk": 5837
+                        },
+                        {
+                            "cpu": 35,
+                            "memory": 303,
+                            "disk": 5651
+                        },
+                        {
+                            "cpu": 58,
+                            "memory": 17,
+                            "disk": 6689
+                        },
+                        {
+                            "cpu": 97,
+                            "memory": 334,
+                            "disk": 3287
+                        },
+                        {
+                            "cpu": 43,
+                            "memory": 113,
+                            "disk": 9181
+                        },
+                        {
+                            "cpu": 14,
+                            "memory": 188,
+                            "disk": 996
+                        },
+                        {
+                            "cpu": 44,
+                            "memory": 504,
+                            "disk": 9134
+                        },
+                        {
+                            "cpu": 26,
+                            "memory": 413,
+                            "disk": 5499
+                        }
+                    ]
+                },
+                {
+                    "name": "ducimus aspernatur aspernatur",
+                    "ipAddresses": [
+                        {
+                            "ip": "b7fd:2ed0:2892:1cdd:c692:601f:b576:b0d5",
+                            "isPrimary": true
+                        },
+                        {
+                            "ip": "d30c:5fbb:2587:0532:02c7:3d5f:e9b9:0c28",
+                            "isPrimary": true
+                        },
+                        {
+                            "ip": "9b3f:e49a:8d9c:bf48:6333:23f9:b77f:3a41",
+                            "isPrimary": false
+                        },
+                        {
+                            "ip": "674e:bf69:280d:1ba7:7a89:ebf7:37ae:4203",
+                            "isPrimary": true
+                        },
+                        {
+                            "ip": "81.231.98.165",
+                            "isPrimary": true
+                        }
+                    ],
+                    "slug": "quia-eum-occaecati",
+                    "type": "XLARGE",
+                    "specs": {
+                        "cpu": 4,
+                        "memory": 4096,
+                        "disk": 102400
+                    },
+                    "createdAt": "2023-07-02T21:15:51.333Z",
+                    "usage": [
+                        {
+                            "cpu": 0,
+                            "memory": 3575,
+                            "disk": 31934
+                        },
+                        {
+                            "cpu": 27,
+                            "memory": 1743,
+                            "disk": 81720
+                        },
+                        {
+                            "cpu": 89,
+                            "memory": 760,
+                            "disk": 69620
+                        },
+                        {
+                            "cpu": 96,
+                            "memory": 1868,
+                            "disk": 70399
+                        },
+                        {
+                            "cpu": 48,
+                            "memory": 882,
+                            "disk": 80767
+                        },
+                        {
+                            "cpu": 95,
+                            "memory": 940,
+                            "disk": 74840
+                        },
+                        {
+                            "cpu": 88,
+                            "memory": 1040,
+                            "disk": 32122
+                        },
+                        {
+                            "cpu": 21,
+                            "memory": 3922,
+                            "disk": 53064
+                        },
+                        {
+                            "cpu": 47,
+                            "memory": 105,
+                            "disk": 72866
+                        },
+                        {
+                            "cpu": 20,
+                            "memory": 629,
+                            "disk": 43488
+                        }
+                    ]
+                },
+                {
+                    "name": "facilis laudantium numquam",
+                    "slug": "minima-amet-officia",
+                    "type": "COLD",
+                    "specs": {
+                        "region": "APAC-IND",
+                        "maxObjects": 8639,
+                        "maxSize": 38912
+                    },
+                    "createdAt": "2024-01-05T13:33:57.754Z",
+                    "usage": [
+                        {
+                            "objects": 6749,
+                            "size": 26624,
+                            "hits": 27689
+                        },
+                        {
+                            "objects": 1320,
+                            "size": 8192,
+                            "hits": 71686
+                        },
+                        {
+                            "objects": 7045,
+                            "size": 20480,
+                            "hits": 46315
+                        },
+                        {
+                            "objects": 5654,
+                            "size": 43008,
+                            "hits": 18328
+                        },
+                        {
+                            "objects": 2048,
+                            "size": 7168,
+                            "hits": 16496
+                        },
+                        {
+                            "objects": 4881,
+                            "size": 6144,
+                            "hits": 35561
+                        },
+                        {
+                            "objects": 7221,
+                            "size": 48128,
+                            "hits": 3045
+                        },
+                        {
+                            "objects": 7654,
+                            "size": 38912,
+                            "hits": 74867
+                        },
+                        {
+                            "objects": 926,
+                            "size": 47104,
+                            "hits": 21745
+                        },
+                        {
+                            "objects": 834,
+                            "size": 38912,
+                            "hits": 55219
+                        }
+                    ]
+                },
+                {
+                    "name": "qui quae sapiente",
+                    "slug": "non-nostrum-quis",
+                    "type": "HOT",
+                    "specs": {
+                        "region": "US-East",
+                        "maxObjects": 6773,
+                        "maxSize": 5120
+                    },
+                    "createdAt": "2024-01-25T10:55:46.762Z",
+                    "usage": [
+                        {
+                            "objects": 164,
+                            "size": 28672,
+                            "hits": 92953
+                        },
+                        {
+                            "objects": 92,
+                            "size": 34816,
+                            "hits": 83304
+                        },
+                        {
+                            "objects": 7852,
+                            "size": 51200,
+                            "hits": 28173
+                        },
+                        {
+                            "objects": 7035,
+                            "size": 29696,
+                            "hits": 18163
+                        },
+                        {
+                            "objects": 639,
+                            "size": 26624,
+                            "hits": 48563
+                        },
+                        {
+                            "objects": 5805,
+                            "size": 50176,
+                            "hits": 78755
+                        },
+                        {
+                            "objects": 8765,
+                            "size": 30720,
+                            "hits": 33816
+                        },
+                        {
+                            "objects": 2184,
+                            "size": 50176,
+                            "hits": 45517
+                        },
+                        {
+                            "objects": 2317,
+                            "size": 45056,
+                            "hits": 94932
+                        },
+                        {
+                            "objects": 4923,
+                            "size": 49152,
+                            "hits": 71556
+                        }
+                    ]
+                },
+                {
+                    "name": "corrupti et impedit",
+                    "slug": "officiis-et-nostrum",
+                    "type": "CDN",
+                    "specs": {
+                        "region": "APAC-IND",
+                        "maxObjects": 8490,
+                        "maxSize": 9216
+                    },
+                    "createdAt": "2023-07-06T22:32:43.553Z",
+                    "usage": [
+                        {
+                            "objects": 7734,
+                            "size": 0,
+                            "hits": 97426
+                        },
+                        {
+                            "objects": 3472,
+                            "size": 44032,
+                            "hits": 14814
+                        },
+                        {
+                            "objects": 7805,
+                            "size": 51200,
+                            "hits": 98504
+                        },
+                        {
+                            "objects": 4784,
+                            "size": 38912,
+                            "hits": 49739
+                        },
+                        {
+                            "objects": 40,
+                            "size": 32768,
+                            "hits": 26948
+                        },
+                        {
+                            "objects": 3686,
+                            "size": 20480,
+                            "hits": 13690
+                        },
+                        {
+                            "objects": 4282,
+                            "size": 41984,
+                            "hits": 29784
+                        },
+                        {
+                            "objects": 1898,
+                            "size": 20480,
+                            "hits": 51132
+                        },
+                        {
+                            "objects": 1206,
+                            "size": 11264,
+                            "hits": 98070
+                        },
+                        {
+                            "objects": 978,
+                            "size": 20480,
+                            "hits": 86220
+                        }
+                    ]
+                },
+                {
+                    "name": "aut nisi sapiente",
+                    "slug": "temporibus-et-velit",
+                    "type": "HOT",
+                    "specs": {
+                        "region": "APAC-SGP",
+                        "maxObjects": 3593,
+                        "maxSize": 16384
+                    },
+                    "createdAt": "2023-09-24T15:32:04.848Z",
+                    "usage": [
+                        {
+                            "objects": 811,
+                            "size": 15360,
+                            "hits": 40724
+                        },
+                        {
+                            "objects": 7752,
+                            "size": 11264,
+                            "hits": 92622
+                        },
+                        {
+                            "objects": 1325,
+                            "size": 16384,
+                            "hits": 5342
+                        },
+                        {
+                            "objects": 9529,
+                            "size": 37888,
+                            "hits": 1394
+                        },
+                        {
+                            "objects": 114,
+                            "size": 27648,
+                            "hits": 77058
+                        },
+                        {
+                            "objects": 3046,
+                            "size": 7168,
+                            "hits": 88286
+                        },
+                        {
+                            "objects": 795,
+                            "size": 12288,
+                            "hits": 8960
+                        },
+                        {
+                            "objects": 6774,
+                            "size": 34816,
+                            "hits": 81043
+                        },
+                        {
+                            "objects": 2453,
+                            "size": 22528,
+                            "hits": 42054
+                        },
+                        {
+                            "objects": 7522,
+                            "size": 28672,
+                            "hits": 82961
+                        }
+                    ]
+                },
+                {
+                    "name": "qui aspernatur enim",
+                    "slug": "aliquam-magni-deserunt",
+                    "type": "IPV6",
+                    "specs": {
+                        "maxIpv4Rules": 0,
+                        "maxIpv6Rules": 2000
+                    },
+                    "rules": [
+                        {
+                            "ip": "4778:a7bd:466d:28c1:0ab3:cdca:4251:904e",
+                            "type": "OUTBOUND",
+                            "verdict": "BLOCK",
+                            "port": 12914,
+                            "description": "Praesentium molestiae quae porro et quos beatae totam occaecati."
+                        },
+                        {
+                            "ip": "78.125.147.106",
+                            "type": "INBOUND",
+                            "verdict": "BLOCK",
+                            "port": 42308,
+                            "description": "Aperiam repellendus et iste molestias nesciunt."
+                        },
+                        {
+                            "ip": "36.174.166.71",
+                            "type": "INBOUND",
+                            "verdict": "BLOCK",
+                            "port": 21344,
+                            "description": "Ratione a nesciunt amet magni et."
+                        },
+                        {
+                            "ip": "139.23.116.233",
+                            "type": "INBOUND",
+                            "verdict": "BLOCK",
+                            "port": 30055,
+                            "description": "Est debitis in explicabo et molestiae est rem cumque."
+                        },
+                        {
+                            "ip": "83.183.193.6",
+                            "type": "INBOUND",
+                            "verdict": "ALLOW",
+                            "port": 15729,
+                            "description": "Nesciunt aut quibusdam nemo a incidunt praesentium quas deserunt."
+                        }
+                    ],
+                    "createdAt": "2023-03-06T08:32:45.767Z",
+                    "usage": [
+                        {
+                            "requests": 5578,
+                            "allowed": 0.14,
+                            "blocked": 0.86
+                        },
+                        {
+                            "requests": 974,
+                            "allowed": 0.54,
+                            "blocked": 0.46
+                        },
+                        {
+                            "requests": 6217,
+                            "allowed": 0.040000000000000036,
+                            "blocked": 0.96
+                        },
+                        {
+                            "requests": 8631,
+                            "allowed": 0.42000000000000004,
+                            "blocked": 0.58
+                        },
+                        {
+                            "requests": 1576,
+                            "allowed": 0.18000000000000005,
+                            "blocked": 0.82
+                        },
+                        {
+                            "requests": 9925,
+                            "allowed": 0.08999999999999997,
+                            "blocked": 0.91
+                        },
+                        {
+                            "requests": 850,
+                            "allowed": 0.18000000000000005,
+                            "blocked": 0.82
+                        },
+                        {
+                            "requests": 944,
+                            "allowed": 0.84,
+                            "blocked": 0.16
+                        },
+                        {
+                            "requests": 6336,
+                            "allowed": 0.37,
+                            "blocked": 0.63
+                        },
+                        {
+                            "requests": 9493,
+                            "allowed": 0.6,
+                            "blocked": 0.4
+                        }
+                    ]
+                },
+                {
+                    "name": "itaque nihil ducimus",
+                    "slug": "quaerat-qui-pariatur",
+                    "type": "IPV4",
+                    "specs": {
+                        "maxIpv4Rules": 4000,
+                        "maxIpv6Rules": 0
+                    },
+                    "rules": [
+                        {
+                            "ip": "30.90.113.91",
+                            "type": "OUTBOUND",
+                            "verdict": "BLOCK",
+                            "port": 34855,
+                            "description": "Nulla in sed non."
+                        },
+                        {
+                            "ip": "25.155.241.25",
+                            "type": "INBOUND",
+                            "verdict": "BLOCK",
+                            "port": 29763,
+                            "description": "Voluptas dicta incidunt."
+                        },
+                        {
+                            "ip": "9d08:086a:1840:394c:2607:1f93:f5f0:642d",
+                            "type": "INBOUND",
+                            "verdict": "ALLOW",
+                            "port": 32132,
+                            "description": "Doloribus consequatur et enim repellendus et quis quasi."
+                        },
+                        {
+                            "ip": "aa63:aae8:d678:64db:b675:fd5e:60b3:75ed",
+                            "type": "OUTBOUND",
+                            "verdict": "ALLOW",
+                            "port": 25019,
+                            "description": "Optio et eveniet exercitationem quia asperiores et magnam tempora odit."
+                        },
+                        {
+                            "ip": "fe35:b60e:b1ea:4265:55ba:3c28:744e:d53b",
+                            "type": "INBOUND",
+                            "verdict": "ALLOW",
+                            "port": 61773,
+                            "description": "Harum unde et occaecati."
+                        }
+                    ],
+                    "createdAt": "2023-03-11T06:54:30.338Z",
+                    "usage": [
+                        {
+                            "requests": 7508,
+                            "allowed": 0.65,
+                            "blocked": 0.35
+                        },
+                        {
+                            "requests": 6996,
+                            "allowed": 0.98,
+                            "blocked": 0.02
+                        },
+                        {
+                            "requests": 9680,
+                            "allowed": 0.85,
+                            "blocked": 0.15
+                        },
+                        {
+                            "requests": 9945,
+                            "allowed": 0.87,
+                            "blocked": 0.13
+                        },
+                        {
+                            "requests": 4518,
+                            "allowed": 0.29000000000000004,
+                            "blocked": 0.71
+                        },
+                        {
+                            "requests": 708,
+                            "allowed": 0.29000000000000004,
+                            "blocked": 0.71
+                        },
+                        {
+                            "requests": 2928,
+                            "allowed": 0.39,
+                            "blocked": 0.61
+                        },
+                        {
+                            "requests": 1523,
+                            "allowed": 0.32999999999999996,
+                            "blocked": 0.67
+                        },
+                        {
+                            "requests": 4175,
+                            "allowed": 0.55,
+                            "blocked": 0.45
+                        },
+                        {
+                            "requests": 1313,
+                            "allowed": 0.30000000000000004,
+                            "blocked": 0.7
+                        }
+                    ]
+                },
+                {
+                    "name": "id aspernatur eum",
+                    "slug": "sapiente-saepe-architecto",
+                    "type": "IPV6",
+                    "specs": {
+                        "maxIpv4Rules": 5000,
+                        "maxIpv6Rules": 0
+                    },
+                    "rules": [
+                        {
+                            "ip": "70.38.151.66",
+                            "type": "INBOUND",
+                            "verdict": "BLOCK",
+                            "port": 26655,
+                            "description": "Omnis aut enim enim blanditiis ut ea."
+                        },
+                        {
+                            "ip": "3e8b:445e:80ca:55ef:d20e:457e:1858:b6a8",
+                            "type": "INBOUND",
+                            "verdict": "ALLOW",
+                            "port": 46565,
+                            "description": "Quia cum nisi rerum cum unde debitis enim perspiciatis ratione."
+                        },
+                        {
+                            "ip": "d0ab:4075:088e:5186:2065:e904:f3b1:194b",
+                            "type": "INBOUND",
+                            "verdict": "ALLOW",
+                            "port": 47457,
+                            "description": "Iure alias tempora est blanditiis animi aut officia fugiat sapiente."
+                        },
+                        {
+                            "ip": "4.170.178.112",
+                            "type": "INBOUND",
+                            "verdict": "ALLOW",
+                            "port": 33410,
+                            "description": "Suscipit doloremque temporibus sint aspernatur perspiciatis dignissimos doloribus."
+                        },
+                        {
+                            "ip": "98.177.206.23",
+                            "type": "OUTBOUND",
+                            "verdict": "BLOCK",
+                            "port": 54186,
+                            "description": "Ut fuga rerum rerum aut dolorum."
+                        },
+                        {
+                            "ip": "26f8:d986:e881:ead4:f0e1:0125:63f9:4e29",
+                            "type": "INBOUND",
+                            "verdict": "ALLOW",
+                            "port": 29254,
+                            "description": "Voluptates culpa nesciunt ratione."
+                        },
+                        {
+                            "ip": "85.112.160.19",
+                            "type": "OUTBOUND",
+                            "verdict": "ALLOW",
+                            "port": 59702,
+                            "description": "Debitis eaque iusto inventore."
+                        },
+                        {
+                            "ip": "15.121.232.47",
+                            "type": "INBOUND",
+                            "verdict": "BLOCK",
+                            "port": 58855,
+                            "description": "Tempore porro non cupiditate."
+                        },
+                        {
+                            "ip": "5f05:97a6:0ff2:a54a:31e9:4764:a3e8:65e7",
+                            "type": "INBOUND",
+                            "verdict": "BLOCK",
+                            "port": 28297,
+                            "description": "Deserunt dolores ex aspernatur expedita nisi et deserunt qui distinctio."
+                        }
+                    ],
+                    "createdAt": "2023-09-23T10:54:30.249Z",
+                    "usage": [
+                        {
+                            "requests": 375,
+                            "allowed": 0.6,
+                            "blocked": 0.4
+                        },
+                        {
+                            "requests": 9847,
+                            "allowed": 0,
+                            "blocked": 1
+                        },
+                        {
+                            "requests": 4481,
+                            "allowed": 0.65,
+                            "blocked": 0.35
+                        },
+                        {
+                            "requests": 9377,
+                            "allowed": 0.28,
+                            "blocked": 0.72
+                        },
+                        {
+                            "requests": 6721,
+                            "allowed": 0.36,
+                            "blocked": 0.64
+                        },
+                        {
+                            "requests": 2667,
+                            "allowed": 0.18000000000000005,
+                            "blocked": 0.82
+                        },
+                        {
+                            "requests": 5641,
+                            "allowed": 0.020000000000000018,
+                            "blocked": 0.98
+                        },
+                        {
+                            "requests": 9570,
+                            "allowed": 0.10999999999999999,
+                            "blocked": 0.89
+                        },
+                        {
+                            "requests": 1134,
+                            "allowed": 0.22999999999999998,
+                            "blocked": 0.77
+                        },
+                        {
+                            "requests": 2722,
+                            "allowed": 0.30000000000000004,
+                            "blocked": 0.7
+                        }
+                    ]
+                },
+                {
+                    "name": "vitae ratione voluptas",
+                    "slug": "veritatis-voluptatem-et",
+                    "type": "IPV6",
+                    "specs": {
+                        "maxIpv4Rules": 0,
+                        "maxIpv6Rules": 2000
+                    },
+                    "rules": [
+                        {
+                            "ip": "222.197.45.245",
+                            "type": "OUTBOUND",
+                            "verdict": "BLOCK",
+                            "port": 21306,
+                            "description": "Qui officia itaque."
+                        },
+                        {
+                            "ip": "240.217.13.239",
+                            "type": "INBOUND",
+                            "verdict": "ALLOW",
+                            "port": 58445,
+                            "description": "Dolor vel non ratione voluptas nobis."
+                        },
+                        {
+                            "ip": "aed0:1179:9631:2fde:0477:1778:ff61:d017",
+                            "type": "OUTBOUND",
+                            "verdict": "BLOCK",
+                            "port": 26462,
+                            "description": "In inventore tempore quia."
+                        },
+                        {
+                            "ip": "db6a:6606:59a1:adea:ab58:51d6:c645:b08b",
+                            "type": "OUTBOUND",
+                            "verdict": "BLOCK",
+                            "port": 34790,
+                            "description": "Dicta nihil nam quidem doloremque a necessitatibus."
+                        }
+                    ],
+                    "createdAt": "2024-01-10T18:15:11.777Z",
+                    "usage": [
+                        {
+                            "requests": 8672,
+                            "allowed": 0.31999999999999995,
+                            "blocked": 0.68
+                        },
+                        {
+                            "requests": 291,
+                            "allowed": 0.09999999999999998,
+                            "blocked": 0.9
+                        },
+                        {
+                            "requests": 5349,
+                            "allowed": 1,
+                            "blocked": 0
+                        },
+                        {
+                            "requests": 4042,
+                            "allowed": 0.06000000000000005,
+                            "blocked": 0.94
+                        },
+                        {
+                            "requests": 5242,
+                            "allowed": 0.040000000000000036,
+                            "blocked": 0.96
+                        },
+                        {
+                            "requests": 3651,
+                            "allowed": 0.19999999999999996,
+                            "blocked": 0.8
+                        },
+                        {
+                            "requests": 1905,
+                            "allowed": 0,
+                            "blocked": 1
+                        },
+                        {
+                            "requests": 191,
+                            "allowed": 0.65,
+                            "blocked": 0.35
+                        },
+                        {
+                            "requests": 5182,
+                            "allowed": 0.15000000000000002,
+                            "blocked": 0.85
+                        },
+                        {
+                            "requests": 8428,
+                            "allowed": 0.22999999999999998,
+                            "blocked": 0.77
+                        }
+                    ]
+                },
+                {
+                    "name": "quis harum modi",
+                    "slug": "nemo-vitae-sed",
+                    "type": "IPV64",
+                    "specs": {
+                        "maxIpv4Rules": 0,
+                        "maxIpv6Rules": 1000
+                    },
+                    "rules": [
+                        {
+                            "ip": "1042:1813:d520:8ece:7e25:3b66:8451:c6c6",
+                            "type": "INBOUND",
+                            "verdict": "BLOCK",
+                            "port": 1897,
+                            "description": "Eveniet explicabo reprehenderit accusamus debitis."
+                        },
+                        {
+                            "ip": "176.49.252.235",
+                            "type": "INBOUND",
+                            "verdict": "ALLOW",
+                            "port": 23890,
+                            "description": "Et rerum autem aliquam commodi omnis."
+                        },
+                        {
+                            "ip": "273a:8418:d162:309f:b092:9921:aefb:9f58",
+                            "type": "INBOUND",
+                            "verdict": "BLOCK",
+                            "port": 54811,
+                            "description": "Esse non esse occaecati itaque ut quisquam."
+                        },
+                        {
+                            "ip": "8.95.109.0",
+                            "type": "OUTBOUND",
+                            "verdict": "BLOCK",
+                            "port": 64130,
+                            "description": "In vero facilis praesentium commodi."
+                        }
+                    ],
+                    "createdAt": "2023-09-08T04:33:38.105Z",
+                    "usage": [
+                        {
+                            "requests": 3361,
+                            "allowed": 0.32999999999999996,
+                            "blocked": 0.67
+                        },
+                        {
+                            "requests": 8807,
+                            "allowed": 0.43000000000000005,
+                            "blocked": 0.57
+                        },
+                        {
+                            "requests": 9451,
+                            "allowed": 0.21999999999999997,
+                            "blocked": 0.78
+                        },
+                        {
+                            "requests": 9919,
+                            "allowed": 0.09999999999999998,
+                            "blocked": 0.9
+                        },
+                        {
+                            "requests": 3767,
+                            "allowed": 0.6,
+                            "blocked": 0.4
+                        },
+                        {
+                            "requests": 9662,
+                            "allowed": 0.09999999999999998,
+                            "blocked": 0.9
+                        },
+                        {
+                            "requests": 7919,
+                            "allowed": 0.94,
+                            "blocked": 0.06
+                        },
+                        {
+                            "requests": 6757,
+                            "allowed": 0.31000000000000005,
+                            "blocked": 0.69
+                        },
+                        {
+                            "requests": 2449,
+                            "allowed": 0.77,
+                            "blocked": 0.23
+                        },
+                        {
+                            "requests": 2164,
+                            "allowed": 0.45999999999999996,
+                            "blocked": 0.54
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "est dolorem maxime",
+            "slug": "et-quisquam-exercitationem",
+            "createdAt": "2023-08-25T05:00:52.548Z",
+            "services": [
+                {
+                    "name": "quos quia omnis",
+                    "ipAddresses": [
+                        {
+                            "ip": "112.35.249.109",
+                            "isPrimary": false
+                        },
+                        {
+                            "ip": "20.209.186.26",
+                            "isPrimary": true
+                        },
+                        {
+                            "ip": "c431:0661:e963:49e1:cf9e:06e3:a437:000a",
+                            "isPrimary": true
+                        }
+                    ],
+                    "slug": "voluptate-eligendi-autem",
+                    "type": "MINI",
+                    "specs": {
+                        "cpu": 0.5,
+                        "memory": 512,
+                        "disk": 10240
+                    },
+                    "createdAt": "2023-06-05T02:03:10.236Z",
+                    "usage": [
+                        {
+                            "cpu": 81,
+                            "memory": 305,
+                            "disk": 7261
+                        },
+                        {
+                            "cpu": 54,
+                            "memory": 489,
+                            "disk": 4665
+                        },
+                        {
+                            "cpu": 35,
+                            "memory": 307,
+                            "disk": 9191
+                        },
+                        {
+                            "cpu": 66,
+                            "memory": 394,
+                            "disk": 3820
+                        },
+                        {
+                            "cpu": 36,
+                            "memory": 342,
+                            "disk": 6366
+                        },
+                        {
+                            "cpu": 46,
+                            "memory": 148,
+                            "disk": 871
+                        },
+                        {
+                            "cpu": 88,
+                            "memory": 119,
+                            "disk": 1151
+                        },
+                        {
+                            "cpu": 8,
+                            "memory": 108,
+                            "disk": 3297
+                        },
+                        {
+                            "cpu": 18,
+                            "memory": 313,
+                            "disk": 4127
+                        },
+                        {
+                            "cpu": 37,
+                            "memory": 382,
+                            "disk": 7437
+                        }
+                    ]
+                },
+                {
+                    "name": "cum corrupti ratione",
+                    "ipAddresses": [],
+                    "slug": "dolorem-nihil-et",
+                    "type": "LARGE",
+                    "specs": {
+                        "cpu": 2,
+                        "memory": 2048,
+                        "disk": 51200
+                    },
+                    "createdAt": "2024-01-25T06:24:50.356Z",
+                    "usage": [
+                        {
+                            "cpu": 26,
+                            "memory": 426,
+                            "disk": 17836
+                        },
+                        {
+                            "cpu": 94,
+                            "memory": 180,
+                            "disk": 11028
+                        },
+                        {
+                            "cpu": 60,
+                            "memory": 1758,
+                            "disk": 36576
+                        },
+                        {
+                            "cpu": 81,
+                            "memory": 322,
+                            "disk": 8148
+                        },
+                        {
+                            "cpu": 34,
+                            "memory": 1241,
+                            "disk": 37235
+                        },
+                        {
+                            "cpu": 11,
+                            "memory": 1359,
+                            "disk": 37268
+                        },
+                        {
+                            "cpu": 86,
+                            "memory": 1306,
+                            "disk": 28396
+                        },
+                        {
+                            "cpu": 82,
+                            "memory": 52,
+                            "disk": 24544
+                        },
+                        {
+                            "cpu": 5,
+                            "memory": 1874,
+                            "disk": 4099
+                        },
+                        {
+                            "cpu": 4,
+                            "memory": 1059,
+                            "disk": 14996
+                        }
+                    ]
+                },
+                {
+                    "name": "porro aperiam quam",
+                    "ipAddresses": [
+                        {
+                            "ip": "d1ad:879e:eb96:65b8:5efb:d02b:ae0b:e2d7",
+                            "isPrimary": true
+                        },
+                        {
+                            "ip": "259e:3ea4:b519:7f92:443d:a7ce:52b8:95c5",
+                            "isPrimary": false
+                        }
+                    ],
+                    "slug": "ducimus-quibusdam-et",
+                    "type": "XLARGE",
+                    "specs": {
+                        "cpu": 4,
+                        "memory": 4096,
+                        "disk": 102400
+                    },
+                    "createdAt": "2023-11-12T05:24:42.848Z",
+                    "usage": [
+                        {
+                            "cpu": 36,
+                            "memory": 1221,
+                            "disk": 93693
+                        },
+                        {
+                            "cpu": 98,
+                            "memory": 2997,
+                            "disk": 4711
+                        },
+                        {
+                            "cpu": 73,
+                            "memory": 777,
+                            "disk": 29687
+                        },
+                        {
+                            "cpu": 52,
+                            "memory": 2366,
+                            "disk": 38502
+                        },
+                        {
+                            "cpu": 78,
+                            "memory": 991,
+                            "disk": 81469
+                        },
+                        {
+                            "cpu": 69,
+                            "memory": 1411,
+                            "disk": 68530
+                        },
+                        {
+                            "cpu": 77,
+                            "memory": 3948,
+                            "disk": 75356
+                        },
+                        {
+                            "cpu": 88,
+                            "memory": 579,
+                            "disk": 102138
+                        },
+                        {
+                            "cpu": 87,
+                            "memory": 1486,
+                            "disk": 45191
+                        },
+                        {
+                            "cpu": 4,
+                            "memory": 1992,
+                            "disk": 33310
+                        }
+                    ]
+                },
+                {
+                    "name": "similique ipsum dolorum",
+                    "slug": "dicta-et-qui",
+                    "type": "COLD",
+                    "specs": {
+                        "region": "APAC-IND",
+                        "maxObjects": 9327,
+                        "maxSize": 32768
+                    },
+                    "createdAt": "2023-05-14T21:49:11.450Z",
+                    "usage": [
+                        {
+                            "objects": 4014,
+                            "size": 15360,
+                            "hits": 41669
+                        },
+                        {
+                            "objects": 8887,
+                            "size": 41984,
+                            "hits": 69728
+                        },
+                        {
+                            "objects": 3482,
+                            "size": 23552,
+                            "hits": 21145
+                        },
+                        {
+                            "objects": 2646,
+                            "size": 3072,
+                            "hits": 57553
+                        },
+                        {
+                            "objects": 8761,
+                            "size": 9216,
+                            "hits": 91855
+                        },
+                        {
+                            "objects": 7413,
+                            "size": 6144,
+                            "hits": 93693
+                        },
+                        {
+                            "objects": 3345,
+                            "size": 33792,
+                            "hits": 17537
+                        },
+                        {
+                            "objects": 7250,
+                            "size": 5120,
+                            "hits": 16449
+                        },
+                        {
+                            "objects": 8999,
+                            "size": 38912,
+                            "hits": 5687
+                        },
+                        {
+                            "objects": 4974,
+                            "size": 51200,
+                            "hits": 8738
+                        }
+                    ]
+                },
+                {
+                    "name": "iure et qui",
+                    "slug": "similique-in-consequatur",
+                    "type": "ARCHIVE",
+                    "specs": {
+                        "region": "US-East",
+                        "maxObjects": 3423,
+                        "maxSize": 51200
+                    },
+                    "createdAt": "2023-05-17T00:38:07.512Z",
+                    "usage": [
+                        {
+                            "objects": 5740,
+                            "size": 16384,
+                            "hits": 94495
+                        },
+                        {
+                            "objects": 6573,
+                            "size": 28672,
+                            "hits": 51733
+                        },
+                        {
+                            "objects": 5647,
+                            "size": 24576,
+                            "hits": 5117
+                        },
+                        {
+                            "objects": 9012,
+                            "size": 5120,
+                            "hits": 55465
+                        },
+                        {
+                            "objects": 6144,
+                            "size": 43008,
+                            "hits": 73164
+                        },
+                        {
+                            "objects": 7256,
+                            "size": 12288,
+                            "hits": 3855
+                        },
+                        {
+                            "objects": 9640,
+                            "size": 39936,
+                            "hits": 74124
+                        },
+                        {
+                            "objects": 2168,
+                            "size": 12288,
+                            "hits": 90315
+                        },
+                        {
+                            "objects": 6444,
+                            "size": 2048,
+                            "hits": 33975
+                        },
+                        {
+                            "objects": 3331,
+                            "size": 37888,
+                            "hits": 9973
+                        }
+                    ]
+                },
+                {
+                    "name": "voluptatum possimus qui",
+                    "slug": "magnam-ullam-recusandae",
+                    "type": "HOT",
+                    "specs": {
+                        "region": "US-West",
+                        "maxObjects": 9931,
+                        "maxSize": 16384
+                    },
+                    "createdAt": "2023-12-19T09:50:18.751Z",
+                    "usage": [
+                        {
+                            "objects": 8139,
+                            "size": 26624,
+                            "hits": 14038
+                        },
+                        {
+                            "objects": 8635,
+                            "size": 11264,
+                            "hits": 34770
+                        },
+                        {
+                            "objects": 688,
+                            "size": 12288,
+                            "hits": 70571
+                        },
+                        {
+                            "objects": 7311,
+                            "size": 20480,
+                            "hits": 97752
+                        },
+                        {
+                            "objects": 3108,
+                            "size": 25600,
+                            "hits": 71863
+                        },
+                        {
+                            "objects": 3924,
+                            "size": 17408,
+                            "hits": 39193
+                        },
+                        {
+                            "objects": 7278,
+                            "size": 40960,
+                            "hits": 81520
+                        },
+                        {
+                            "objects": 7061,
+                            "size": 11264,
+                            "hits": 31892
+                        },
+                        {
+                            "objects": 9739,
+                            "size": 50176,
+                            "hits": 16235
+                        },
+                        {
+                            "objects": 8916,
+                            "size": 14336,
+                            "hits": 70093
+                        }
+                    ]
+                },
+                {
+                    "name": "ut quia deleniti",
+                    "slug": "nam-cupiditate-facere",
+                    "type": "IPV6",
+                    "specs": {
+                        "maxIpv4Rules": 5000,
+                        "maxIpv6Rules": 3000
+                    },
+                    "rules": [
+                        {
+                            "ip": "319c:177d:525f:77b1:14ee:b52f:f785:fc37",
+                            "type": "INBOUND",
+                            "verdict": "BLOCK",
+                            "port": 19021,
+                            "description": "Corporis temporibus deserunt sint et aut aut dolores est."
+                        },
+                        {
+                            "ip": "143.151.236.179",
+                            "type": "OUTBOUND",
+                            "verdict": "BLOCK",
+                            "port": 57267,
+                            "description": "Fugiat iusto numquam esse est esse perferendis doloremque."
+                        },
+                        {
+                            "ip": "03d8:bb31:180f:739a:e9e0:57eb:809e:2810",
+                            "type": "OUTBOUND",
+                            "verdict": "BLOCK",
+                            "port": 8145,
+                            "description": "Modi culpa ut odit accusamus quis autem blanditiis aperiam voluptatem."
+                        },
+                        {
+                            "ip": "105.11.125.255",
+                            "type": "OUTBOUND",
+                            "verdict": "ALLOW",
+                            "port": 38577,
+                            "description": "Facere quos ut maxime."
+                        },
+                        {
+                            "ip": "214.163.58.242",
+                            "type": "OUTBOUND",
+                            "verdict": "ALLOW",
+                            "port": 61019,
+                            "description": "Tempore quos debitis amet incidunt asperiores magni magni aliquid."
+                        },
+                        {
+                            "ip": "411f:af4b:7544:e472:e802:857a:5b40:463a",
+                            "type": "OUTBOUND",
+                            "verdict": "ALLOW",
+                            "port": 22618,
+                            "description": "Sit ut et ut perferendis perferendis."
+                        },
+                        {
+                            "ip": "123.105.65.173",
+                            "type": "INBOUND",
+                            "verdict": "BLOCK",
+                            "port": 15254,
+                            "description": "Enim non autem quia."
+                        },
+                        {
+                            "ip": "123.142.23.180",
+                            "type": "OUTBOUND",
+                            "verdict": "BLOCK",
+                            "port": 44919,
+                            "description": "Non aut unde."
+                        },
+                        {
+                            "ip": "213.21.15.13",
+                            "type": "INBOUND",
+                            "verdict": "ALLOW",
+                            "port": 42678,
+                            "description": "Rerum voluptatem doloremque alias voluptates earum accusantium minima amet."
+                        },
+                        {
+                            "ip": "eb21:64cf:9ab8:366c:723f:fda9:e06b:ee48",
+                            "type": "OUTBOUND",
+                            "verdict": "BLOCK",
+                            "port": 51567,
+                            "description": "Aut facere veritatis."
+                        },
+                        {
+                            "ip": "25.25.81.194",
+                            "type": "INBOUND",
+                            "verdict": "BLOCK",
+                            "port": 46155,
+                            "description": "Tenetur et sed omnis ex exercitationem ut non consequatur ut."
+                        },
+                        {
+                            "ip": "defc:ce8f:1977:773e:6356:2a7b:408f:05e3",
+                            "type": "INBOUND",
+                            "verdict": "BLOCK",
+                            "port": 36213,
+                            "description": "At libero sapiente dolore aut sed harum architecto repellat commodi."
+                        },
+                        {
+                            "ip": "210.154.70.32",
+                            "type": "OUTBOUND",
+                            "verdict": "ALLOW",
+                            "port": 49901,
+                            "description": "Optio velit velit."
+                        },
+                        {
+                            "ip": "42.84.228.163",
+                            "type": "INBOUND",
+                            "verdict": "BLOCK",
+                            "port": 16827,
+                            "description": "Ut qui ducimus sit ea autem quasi odit earum reprehenderit."
+                        }
+                    ],
+                    "createdAt": "2023-05-06T05:25:37.238Z",
+                    "usage": [
+                        {
+                            "requests": 4965,
+                            "allowed": 0.78,
+                            "blocked": 0.22
+                        },
+                        {
+                            "requests": 3269,
+                            "allowed": 0.31000000000000005,
+                            "blocked": 0.69
+                        },
+                        {
+                            "requests": 1814,
+                            "allowed": 0.9,
+                            "blocked": 0.1
+                        },
+                        {
+                            "requests": 1663,
+                            "allowed": 0.6,
+                            "blocked": 0.4
+                        },
+                        {
+                            "requests": 2405,
+                            "allowed": 0.73,
+                            "blocked": 0.27
+                        },
+                        {
+                            "requests": 2205,
+                            "allowed": 0.49,
+                            "blocked": 0.51
+                        },
+                        {
+                            "requests": 7097,
+                            "allowed": 0.65,
+                            "blocked": 0.35
+                        },
+                        {
+                            "requests": 7697,
+                            "allowed": 0.29000000000000004,
+                            "blocked": 0.71
+                        },
+                        {
+                            "requests": 3635,
+                            "allowed": 0.98,
+                            "blocked": 0.02
+                        },
+                        {
+                            "requests": 1594,
+                            "allowed": 0.36,
+                            "blocked": 0.64
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "incidunt facilis ut",
+            "slug": "sit-et-recusandae",
+            "createdAt": "2023-03-05T16:21:58.451Z",
+            "services": [
+                {
+                    "name": "maiores dolorem rerum",
+                    "ipAddresses": [],
+                    "slug": "consequatur-harum-veritatis",
+                    "type": "SMALL",
+                    "specs": {
+                        "cpu": 1,
+                        "memory": 1024,
+                        "disk": 25600
+                    },
+                    "createdAt": "2023-05-19T08:06:08.591Z",
+                    "usage": [
+                        {
+                            "cpu": 90,
+                            "memory": 159,
+                            "disk": 3044
+                        },
+                        {
+                            "cpu": 43,
+                            "memory": 610,
+                            "disk": 22854
+                        },
+                        {
+                            "cpu": 35,
+                            "memory": 106,
+                            "disk": 864
+                        },
+                        {
+                            "cpu": 1,
+                            "memory": 84,
+                            "disk": 15119
+                        },
+                        {
+                            "cpu": 77,
+                            "memory": 446,
+                            "disk": 21566
+                        },
+                        {
+                            "cpu": 80,
+                            "memory": 372,
+                            "disk": 23641
+                        },
+                        {
+                            "cpu": 24,
+                            "memory": 306,
+                            "disk": 12636
+                        },
+                        {
+                            "cpu": 39,
+                            "memory": 156,
+                            "disk": 12449
+                        },
+                        {
+                            "cpu": 62,
+                            "memory": 602,
+                            "disk": 18932
+                        },
+                        {
+                            "cpu": 99,
+                            "memory": 721,
+                            "disk": 17852
+                        }
+                    ]
+                },
+                {
+                    "name": "iure animi voluptatem",
+                    "ipAddresses": [
+                        {
+                            "ip": "188.34.185.184",
+                            "isPrimary": false
+                        },
+                        {
+                            "ip": "204.170.231.108",
+                            "isPrimary": true
+                        },
+                        {
+                            "ip": "d5db:3ade:bd5d:aea4:c506:a8aa:94c0:2644",
+                            "isPrimary": true
+                        }
+                    ],
+                    "slug": "earum-nisi-necessitatibus",
+                    "type": "MEGA",
+                    "specs": {
+                        "cpu": 16,
+                        "memory": 32768,
+                        "disk": 1024000
+                    },
+                    "createdAt": "2023-07-12T03:10:34.789Z",
+                    "usage": [
+                        {
+                            "cpu": 86,
+                            "memory": 20362,
+                            "disk": 668672
+                        },
+                        {
+                            "cpu": 30,
+                            "memory": 11282,
+                            "disk": 471971
+                        },
+                        {
+                            "cpu": 55,
+                            "memory": 22440,
+                            "disk": 834791
+                        },
+                        {
+                            "cpu": 78,
+                            "memory": 3231,
+                            "disk": 662751
+                        },
+                        {
+                            "cpu": 80,
+                            "memory": 12640,
+                            "disk": 42168
+                        },
+                        {
+                            "cpu": 3,
+                            "memory": 26753,
+                            "disk": 922633
+                        },
+                        {
+                            "cpu": 81,
+                            "memory": 307,
+                            "disk": 52231
+                        },
+                        {
+                            "cpu": 10,
+                            "memory": 20551,
+                            "disk": 802073
+                        },
+                        {
+                            "cpu": 50,
+                            "memory": 1995,
+                            "disk": 173895
+                        },
+                        {
+                            "cpu": 89,
+                            "memory": 4862,
+                            "disk": 919666
+                        }
+                    ]
+                },
+                {
+                    "name": "illo similique hic",
+                    "ipAddresses": [
+                        {
+                            "ip": "251.0.254.133",
+                            "isPrimary": false
+                        },
+                        {
+                            "ip": "ff34:77c1:3e90:2c14:125b:0960:a668:151a",
+                            "isPrimary": false
+                        },
+                        {
+                            "ip": "2af9:23c5:949f:83f3:50cf:876f:fb90:1c6e",
+                            "isPrimary": true
+                        },
+                        {
+                            "ip": "177.68.234.37",
+                            "isPrimary": false
+                        },
+                        {
+                            "ip": "cf78:9ffa:feda:53e5:ae6e:0ac1:84c2:b9c2",
+                            "isPrimary": false
+                        }
+                    ],
+                    "slug": "odio-et-omnis",
+                    "type": "XLARGE",
+                    "specs": {
+                        "cpu": 4,
+                        "memory": 4096,
+                        "disk": 102400
+                    },
+                    "createdAt": "2023-08-01T03:15:04.934Z",
+                    "usage": [
+                        {
+                            "cpu": 23,
+                            "memory": 1939,
+                            "disk": 23261
+                        },
+                        {
+                            "cpu": 68,
+                            "memory": 1093,
+                            "disk": 2187
+                        },
+                        {
+                            "cpu": 90,
+                            "memory": 419,
+                            "disk": 57818
+                        },
+                        {
+                            "cpu": 29,
+                            "memory": 515,
+                            "disk": 100659
+                        },
+                        {
+                            "cpu": 20,
+                            "memory": 572,
+                            "disk": 95933
+                        },
+                        {
+                            "cpu": 33,
+                            "memory": 1528,
+                            "disk": 5227
+                        },
+                        {
+                            "cpu": 35,
+                            "memory": 1357,
+                            "disk": 48127
+                        },
+                        {
+                            "cpu": 32,
+                            "memory": 1614,
+                            "disk": 96954
+                        },
+                        {
+                            "cpu": 34,
+                            "memory": 3462,
+                            "disk": 37527
+                        },
+                        {
+                            "cpu": 38,
+                            "memory": 3549,
+                            "disk": 2536
+                        }
+                    ]
+                },
+                {
+                    "name": "eum sit distinctio",
+                    "ipAddresses": [
+                        {
+                            "ip": "dfe1:3db4:f62c:ba3f:8941:aebc:0b80:a692",
+                            "isPrimary": false
+                        },
+                        {
+                            "ip": "56.179.39.226",
+                            "isPrimary": true
+                        },
+                        {
+                            "ip": "202.198.140.254",
+                            "isPrimary": true
+                        },
+                        {
+                            "ip": "92.9.19.3",
+                            "isPrimary": true
+                        },
+                        {
+                            "ip": "dd3d:6fa1:804e:54c8:2f16:8a36:3c88:73e4",
+                            "isPrimary": true
+                        }
+                    ],
+                    "slug": "quaerat-adipisci-provident",
+                    "type": "XLARGE",
+                    "specs": {
+                        "cpu": 4,
+                        "memory": 4096,
+                        "disk": 102400
+                    },
+                    "createdAt": "2024-02-07T13:56:23.357Z",
+                    "usage": [
+                        {
+                            "cpu": 71,
+                            "memory": 344,
+                            "disk": 97207
+                        },
+                        {
+                            "cpu": 42,
+                            "memory": 2843,
+                            "disk": 52953
+                        },
+                        {
+                            "cpu": 78,
+                            "memory": 2648,
+                            "disk": 17298
+                        },
+                        {
+                            "cpu": 47,
+                            "memory": 1532,
+                            "disk": 67400
+                        },
+                        {
+                            "cpu": 41,
+                            "memory": 2,
+                            "disk": 70286
+                        },
+                        {
+                            "cpu": 1,
+                            "memory": 1212,
+                            "disk": 82200
+                        },
+                        {
+                            "cpu": 30,
+                            "memory": 2514,
+                            "disk": 36443
+                        },
+                        {
+                            "cpu": 76,
+                            "memory": 3319,
+                            "disk": 38748
+                        },
+                        {
+                            "cpu": 58,
+                            "memory": 2462,
+                            "disk": 7708
+                        },
+                        {
+                            "cpu": 47,
+                            "memory": 320,
+                            "disk": 74273
+                        }
+                    ]
+                },
+                {
+                    "name": "voluptas sed est",
+                    "slug": "vel-impedit-odit",
+                    "type": "ARCHIVE",
+                    "specs": {
+                        "region": "APAC-SGP",
+                        "maxObjects": 9646,
+                        "maxSize": 14336
+                    },
+                    "createdAt": "2023-06-02T08:25:24.823Z",
+                    "usage": [
+                        {
+                            "objects": 5483,
+                            "size": 26624,
+                            "hits": 54335
+                        },
+                        {
+                            "objects": 8862,
+                            "size": 37888,
+                            "hits": 86333
+                        },
+                        {
+                            "objects": 9569,
+                            "size": 39936,
+                            "hits": 27799
+                        },
+                        {
+                            "objects": 7973,
+                            "size": 40960,
+                            "hits": 78149
+                        },
+                        {
+                            "objects": 6600,
+                            "size": 29696,
+                            "hits": 58024
+                        },
+                        {
+                            "objects": 7269,
+                            "size": 39936,
+                            "hits": 45715
+                        },
+                        {
+                            "objects": 9441,
+                            "size": 40960,
+                            "hits": 3669
+                        },
+                        {
+                            "objects": 7436,
+                            "size": 7168,
+                            "hits": 86630
+                        },
+                        {
+                            "objects": 7563,
+                            "size": 48128,
+                            "hits": 8379
+                        },
+                        {
+                            "objects": 136,
+                            "size": 26624,
+                            "hits": 48042
+                        }
+                    ]
+                },
+                {
+                    "name": "sint ad ipsum",
+                    "slug": "cumque-eaque-doloremque",
+                    "type": "ARCHIVE",
+                    "specs": {
+                        "region": "EU-Central",
+                        "maxObjects": 8734,
+                        "maxSize": 21504
+                    },
+                    "createdAt": "2023-09-08T05:30:34.519Z",
+                    "usage": [
+                        {
+                            "objects": 5312,
+                            "size": 25600,
+                            "hits": 47065
+                        },
+                        {
+                            "objects": 5401,
+                            "size": 35840,
+                            "hits": 64555
+                        },
+                        {
+                            "objects": 5418,
+                            "size": 17408,
+                            "hits": 54234
+                        },
+                        {
+                            "objects": 1011,
+                            "size": 34816,
+                            "hits": 31838
+                        },
+                        {
+                            "objects": 5224,
+                            "size": 8192,
+                            "hits": 6213
+                        },
+                        {
+                            "objects": 5561,
+                            "size": 41984,
+                            "hits": 31803
+                        },
+                        {
+                            "objects": 2864,
+                            "size": 49152,
+                            "hits": 90165
+                        },
+                        {
+                            "objects": 9658,
+                            "size": 32768,
+                            "hits": 62013
+                        },
+                        {
+                            "objects": 7639,
+                            "size": 31744,
+                            "hits": 31251
+                        },
+                        {
+                            "objects": 9854,
+                            "size": 7168,
+                            "hits": 88729
+                        }
+                    ]
+                },
+                {
+                    "name": "suscipit ipsam et",
+                    "slug": "consequatur-pariatur-sed",
+                    "type": "IPV64",
+                    "specs": {
+                        "maxIpv4Rules": 0,
+                        "maxIpv6Rules": 2000
+                    },
+                    "rules": [
+                        {
+                            "ip": "236.233.129.30",
+                            "type": "OUTBOUND",
+                            "verdict": "BLOCK",
+                            "port": 25967,
+                            "description": "Voluptatem sed quia velit delectus tempore corporis facilis ut quia."
+                        },
+                        {
+                            "ip": "66.135.15.223",
+                            "type": "OUTBOUND",
+                            "verdict": "ALLOW",
+                            "port": 8670,
+                            "description": "Adipisci qui nobis."
+                        },
+                        {
+                            "ip": "12.54.26.11",
+                            "type": "OUTBOUND",
+                            "verdict": "ALLOW",
+                            "port": 20744,
+                            "description": "Ullam sapiente aliquam."
+                        },
+                        {
+                            "ip": "192.103.255.16",
+                            "type": "INBOUND",
+                            "verdict": "ALLOW",
+                            "port": 61879,
+                            "description": "Qui voluptatem odit et voluptate expedita exercitationem."
+                        },
+                        {
+                            "ip": "126.117.168.131",
+                            "type": "OUTBOUND",
+                            "verdict": "ALLOW",
+                            "port": 61286,
+                            "description": "Rerum voluptatem cumque non."
+                        },
+                        {
+                            "ip": "52c6:5b34:418e:3bb9:1c8d:975e:0e84:19d8",
+                            "type": "INBOUND",
+                            "verdict": "ALLOW",
+                            "port": 17364,
+                            "description": "Aut corporis quis voluptatibus adipisci ut aut praesentium necessitatibus illum."
+                        },
+                        {
+                            "ip": "196.77.173.165",
+                            "type": "OUTBOUND",
+                            "verdict": "ALLOW",
+                            "port": 12874,
+                            "description": "Tempore placeat voluptas est sit quis facilis qui dignissimos."
+                        },
+                        {
+                            "ip": "e056:7282:27b2:d309:470b:f7a4:fa87:cf53",
+                            "type": "OUTBOUND",
+                            "verdict": "ALLOW",
+                            "port": 24790,
+                            "description": "Expedita molestiae ea magnam ut quisquam voluptatibus iure doloremque omnis."
+                        },
+                        {
+                            "ip": "21f0:23b7:5d23:67fe:1a0c:c8df:79f0:a396",
+                            "type": "INBOUND",
+                            "verdict": "ALLOW",
+                            "port": 73,
+                            "description": "Adipisci velit quis impedit ducimus temporibus quia ipsam eos."
+                        },
+                        {
+                            "ip": "183.166.197.225",
+                            "type": "OUTBOUND",
+                            "verdict": "ALLOW",
+                            "port": 32863,
+                            "description": "Sed assumenda ad voluptates et voluptatem est natus."
+                        },
+                        {
+                            "ip": "109.192.236.103",
+                            "type": "OUTBOUND",
+                            "verdict": "BLOCK",
+                            "port": 64393,
+                            "description": "Officiis eligendi architecto omnis quos autem porro dolorem id eum."
+                        },
+                        {
+                            "ip": "239.204.120.79",
+                            "type": "OUTBOUND",
+                            "verdict": "BLOCK",
+                            "port": 33726,
+                            "description": "Facilis eos voluptatem adipisci odit deleniti blanditiis ullam."
+                        }
+                    ],
+                    "createdAt": "2023-08-23T10:01:25.066Z",
+                    "usage": [
+                        {
+                            "requests": 7714,
+                            "allowed": 0.13,
+                            "blocked": 0.87
+                        },
+                        {
+                            "requests": 724,
+                            "allowed": 0.41000000000000003,
+                            "blocked": 0.59
+                        },
+                        {
+                            "requests": 6704,
+                            "allowed": 0.65,
+                            "blocked": 0.35
+                        },
+                        {
+                            "requests": 1480,
+                            "allowed": 0.15000000000000002,
+                            "blocked": 0.85
+                        },
+                        {
+                            "requests": 6811,
+                            "allowed": 0.18999999999999995,
+                            "blocked": 0.81
+                        },
+                        {
+                            "requests": 3420,
+                            "allowed": 0,
+                            "blocked": 1
+                        },
+                        {
+                            "requests": 8451,
+                            "allowed": 0.15000000000000002,
+                            "blocked": 0.85
+                        },
+                        {
+                            "requests": 4564,
+                            "allowed": 0.5900000000000001,
+                            "blocked": 0.41
+                        },
+                        {
+                            "requests": 2337,
+                            "allowed": 0.88,
+                            "blocked": 0.12
+                        },
+                        {
+                            "requests": 7626,
+                            "allowed": 0.16000000000000003,
+                            "blocked": 0.84
+                        }
+                    ]
+                },
+                {
+                    "name": "reiciendis aliquid harum",
+                    "slug": "et-dolores-sapiente",
+                    "type": "IPV4",
+                    "specs": {
+                        "maxIpv4Rules": 1000,
+                        "maxIpv6Rules": 3000
+                    },
+                    "rules": [
+                        {
+                            "ip": "127.10.5.131",
+                            "type": "OUTBOUND",
+                            "verdict": "ALLOW",
+                            "port": 31122,
+                            "description": "Iusto quasi nemo tempora a."
+                        },
+                        {
+                            "ip": "a6c9:8b55:5540:80d4:0bca:cc6c:bd6b:5f3e",
+                            "type": "INBOUND",
+                            "verdict": "ALLOW",
+                            "port": 1905,
+                            "description": "Labore aperiam corporis repellat est magni molestiae."
+                        },
+                        {
+                            "ip": "169.210.36.95",
+                            "type": "OUTBOUND",
+                            "verdict": "BLOCK",
+                            "port": 34688,
+                            "description": "Fuga placeat enim."
+                        },
+                        {
+                            "ip": "4b0e:d20e:5624:8fff:639a:910a:bdca:b626",
+                            "type": "OUTBOUND",
+                            "verdict": "BLOCK",
+                            "port": 26028,
+                            "description": "Iure aut quasi non temporibus illo consequatur."
+                        },
+                        {
+                            "ip": "21b3:35d8:9acb:3ecf:da8d:0c54:9ef0:3004",
+                            "type": "INBOUND",
+                            "verdict": "BLOCK",
+                            "port": 35455,
+                            "description": "Voluptate aut tenetur tempore vitae et hic amet."
+                        },
+                        {
+                            "ip": "688f:77c1:ffc7:1dca:163f:2a3c:80a9:7ff3",
+                            "type": "OUTBOUND",
+                            "verdict": "BLOCK",
+                            "port": 50013,
+                            "description": "Accusamus rerum natus quis blanditiis cum mollitia repudiandae molestiae."
+                        }
+                    ],
+                    "createdAt": "2024-01-13T17:51:49.811Z",
+                    "usage": [
+                        {
+                            "requests": 4849,
+                            "allowed": 0.43999999999999995,
+                            "blocked": 0.56
+                        },
+                        {
+                            "requests": 7808,
+                            "allowed": 0.5800000000000001,
+                            "blocked": 0.42
+                        },
+                        {
+                            "requests": 6485,
+                            "allowed": 0.6,
+                            "blocked": 0.4
+                        },
+                        {
+                            "requests": 1265,
+                            "allowed": 0.30000000000000004,
+                            "blocked": 0.7
+                        },
+                        {
+                            "requests": 8601,
+                            "allowed": 0.91,
+                            "blocked": 0.09
+                        },
+                        {
+                            "requests": 6181,
+                            "allowed": 0.84,
+                            "blocked": 0.16
+                        },
+                        {
+                            "requests": 9507,
+                            "allowed": 0.15000000000000002,
+                            "blocked": 0.85
+                        },
+                        {
+                            "requests": 6018,
+                            "allowed": 0.22999999999999998,
+                            "blocked": 0.77
+                        },
+                        {
+                            "requests": 8146,
+                            "allowed": 0.72,
+                            "blocked": 0.28
+                        },
+                        {
+                            "requests": 9874,
+                            "allowed": 0.62,
+                            "blocked": 0.38
+                        }
+                    ]
+                },
+                {
+                    "name": "temporibus illum quos",
+                    "slug": "laborum-officia-modi",
+                    "type": "IPV64",
+                    "specs": {
+                        "maxIpv4Rules": 3000,
+                        "maxIpv6Rules": 0
+                    },
+                    "rules": [
+                        {
+                            "ip": "6a6d:2d00:0355:338c:ec08:6fa2:1e91:52cb",
+                            "type": "OUTBOUND",
+                            "verdict": "BLOCK",
+                            "port": 8093,
+                            "description": "Odit quam dolores qui natus ut eius."
+                        }
+                    ],
+                    "createdAt": "2023-05-12T11:04:15.076Z",
+                    "usage": [
+                        {
+                            "requests": 8497,
+                            "allowed": 0.44999999999999996,
+                            "blocked": 0.55
+                        },
+                        {
+                            "requests": 329,
+                            "allowed": 0.28,
+                            "blocked": 0.72
+                        },
+                        {
+                            "requests": 3102,
+                            "allowed": 0.75,
+                            "blocked": 0.25
+                        },
+                        {
+                            "requests": 5154,
+                            "allowed": 0.99,
+                            "blocked": 0.01
+                        },
+                        {
+                            "requests": 4159,
+                            "allowed": 0.17000000000000004,
+                            "blocked": 0.83
+                        },
+                        {
+                            "requests": 2312,
+                            "allowed": 0.15000000000000002,
+                            "blocked": 0.85
+                        },
+                        {
+                            "requests": 3079,
+                            "allowed": 0.62,
+                            "blocked": 0.38
+                        },
+                        {
+                            "requests": 9455,
+                            "allowed": 0.06000000000000005,
+                            "blocked": 0.94
+                        },
+                        {
+                            "requests": 2942,
+                            "allowed": 0.17000000000000004,
+                            "blocked": 0.83
+                        },
+                        {
+                            "requests": 3539,
+                            "allowed": 0.6799999999999999,
+                            "blocked": 0.32
+                        }
+                    ]
+                },
+                {
+                    "name": "alias ea nulla",
+                    "slug": "sed-sequi-velit",
+                    "type": "IPV6",
+                    "specs": {
+                        "maxIpv4Rules": 1000,
+                        "maxIpv6Rules": 5000
+                    },
+                    "rules": [
+                        {
+                            "ip": "226.155.52.92",
+                            "type": "INBOUND",
+                            "verdict": "BLOCK",
+                            "port": 52956,
+                            "description": "Molestiae omnis fugit a eius aut quod."
+                        },
+                        {
+                            "ip": "50.237.73.61",
+                            "type": "OUTBOUND",
+                            "verdict": "BLOCK",
+                            "port": 11317,
+                            "description": "Deleniti ipsum aut qui quia qui molestiae quia accusantium."
+                        },
+                        {
+                            "ip": "6418:70d9:d21f:9ad0:30c4:ecc1:1a08:3642",
+                            "type": "INBOUND",
+                            "verdict": "BLOCK",
+                            "port": 25183,
+                            "description": "Nihil sint aliquid perferendis sequi facilis enim."
+                        },
+                        {
+                            "ip": "e7f7:3bc8:45e3:20a3:19f4:badf:947c:9a86",
+                            "type": "OUTBOUND",
+                            "verdict": "ALLOW",
+                            "port": 49771,
+                            "description": "Dolor ullam ipsum in et."
+                        }
+                    ],
+                    "createdAt": "2023-09-15T19:31:18.871Z",
+                    "usage": [
+                        {
+                            "requests": 5523,
+                            "allowed": 0.6799999999999999,
+                            "blocked": 0.32
+                        },
+                        {
+                            "requests": 3834,
+                            "allowed": 0.9299999999999999,
+                            "blocked": 0.07
+                        },
+                        {
+                            "requests": 8555,
+                            "allowed": 0.15000000000000002,
+                            "blocked": 0.85
+                        },
+                        {
+                            "requests": 6330,
+                            "allowed": 0.22999999999999998,
+                            "blocked": 0.77
+                        },
+                        {
+                            "requests": 9140,
+                            "allowed": 0.45999999999999996,
+                            "blocked": 0.54
+                        },
+                        {
+                            "requests": 3663,
+                            "allowed": 0.020000000000000018,
+                            "blocked": 0.98
+                        },
+                        {
+                            "requests": 9847,
+                            "allowed": 0.9299999999999999,
+                            "blocked": 0.07
+                        },
+                        {
+                            "requests": 7113,
+                            "allowed": 0.22999999999999998,
+                            "blocked": 0.77
+                        },
+                        {
+                            "requests": 7683,
+                            "allowed": 0.74,
+                            "blocked": 0.26
+                        },
+                        {
+                            "requests": 5781,
+                            "allowed": 0.63,
+                            "blocked": 0.37
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+/* Dashboard.css */
+.dashboard {
+    text-align: center;
+  }
+  
+  .dashboard h1 {
+    margin-bottom: 24px;
+  }
+  
+  .loading {
+    font-style: italic;
+    color: #888;
+  }
+  

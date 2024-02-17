@@ -1,0 +1,63 @@
+/* ProjectCard.css */
+.project-card {
+    background-color: #be4343;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    padding: 16px;
+    margin: 16px;
+    transition: transform 0.2s;
+  }
+  
+  .project-card:hover {
+    transform: scale(1.05);
+  }
+  
+  .project-card h3 {
+    margin-bottom: 8px;
+    color: #333;
+  }
+  
+  .project-card p {
+    margin: 4px 0;
+    color: #666;
+  }
+  
+  .services-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .service {
+    margin: 8px 0;
+    padding: 16px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    transition: transform 0.2s;
+  }
+  
+  .service:hover {
+    transform: scale(1.02);
+  }
+  
+  .service h5 {
+    margin-bottom: 8px;
+    color: #333;
+  }
+  
+  /* Add specific styles for LargeService, MegaService, and Ipv6Service if needed */
+  .large-service {
+    background-color: #f8f8f8;
+    color: #3498db;
+  }
+  
+  /* Specific styles for MegaService */
+  .mega-service {
+    background-color: #e74c3c;
+    color: #fff;
+  }
+  
+  /* Specific styles for Ipv6Service */
+  .ipv6-service {
+    background-color: #2ecc71;
+    color: #fff;
+  }
